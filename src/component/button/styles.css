@@ -1,0 +1,11 @@
+.button-main{
+    margin-right: 40 px;
+    color: #E74243;
+    font-family: "Inter";
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.button-main:hover {
+    background: rgb(239, 238, 238) !important;
+}

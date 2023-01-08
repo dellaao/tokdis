@@ -1,0 +1,41 @@
+.product-container{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.title-product{
+    width: 264px;
+    height: 62px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+    color: #262626;
+    margin-bottom: 12px;
+    font-family: "Inter";
+}
+
+.content-product{
+    box-sizing: border-box;
+    width: 264px;
+    height: 110px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #595959;
+    font-family: "Inter";
+}
+
+.harga{
+    width: 280px;
+    height: 284.05px;
+}
