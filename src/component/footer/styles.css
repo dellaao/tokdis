@@ -3,6 +3,8 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .footer-container{
